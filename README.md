@@ -17,6 +17,8 @@ Implementasi **Genetic Algorithm (GA)** untuk menyelesaikan permasalahan **Unive
 
   Aplikasi Web (Live Demo) dapat diakses di [exam-timetabling-ga.streamlit.app](https://exam-timetabling-ga.streamlit.app/)
 
+  Video Presentasi Kelompok dapat diakses di [video-presentasi](https://youtu.be/CAN0KJPvkQU))
+
   > Dikembangkan untuk memenuhi tugas mata kuliah **Pengantar Kecerdasan Komputasional** - Kelompok 17
 </div>
 
