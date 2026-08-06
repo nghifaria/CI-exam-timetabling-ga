@@ -1,4 +1,7 @@
+
 # Exam Timetabling using Genetic Algorithm
+
+This repository contains a team project completed as part of course at IPB University. The project was developed collaboratively by all team members.
 
 Implementasi **Genetic Algorithm (GA)** untuk menyelesaikan permasalahan **University Exam Timetabling Problem (UETP)**.
 
